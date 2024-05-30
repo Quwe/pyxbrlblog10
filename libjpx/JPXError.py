@@ -1,0 +1,2 @@
+class JPXAnalysisError(Exception):
+	pass
